@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Putri Ayu Shintaningrum  
+NIU : 460559 
+Sesi : Siang  
+Secret String : 7207ec6fff62f155b8c7266eeec1df026fc2bd415f40b0bf9fce1016f4b88e1020230616145851
 
 ## Checklist Responsi
 
